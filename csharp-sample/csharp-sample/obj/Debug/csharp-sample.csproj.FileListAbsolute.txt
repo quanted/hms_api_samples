@@ -1,0 +1,11 @@
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\csharp-sample.exe.config
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\csharp-sample.exe
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\csharp-sample.pdb
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\Newtonsoft.Json.dll
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\Newtonsoft.Json.pdb
+C:\git\hms-samples\csharp-sample\csharp-sample\bin\Debug\Newtonsoft.Json.xml
+C:\git\hms-samples\csharp-sample\csharp-sample\obj\Debug\csharp-sample.csprojAssemblyReference.cache
+C:\git\hms-samples\csharp-sample\csharp-sample\obj\Debug\csharp-sample.csproj.CoreCompileInputs.cache
+C:\git\hms-samples\csharp-sample\csharp-sample\obj\Debug\csharp-sample.csproj.CopyComplete
+C:\git\hms-samples\csharp-sample\csharp-sample\obj\Debug\csharp-sample.exe
+C:\git\hms-samples\csharp-sample\csharp-sample\obj\Debug\csharp-sample.pdb
